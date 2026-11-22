@@ -43,6 +43,7 @@ bash
 python simulador_MIMO.py
 Ajusta los parámetros de los usuarios y la frecuencia, y presiona "INICIAR BARRIDO 360°".
 
+text
 Experimentos incluidos
 Experimento 1: 28 GHz (SDMA viable)
 Frecuencia: 28 GHz.
